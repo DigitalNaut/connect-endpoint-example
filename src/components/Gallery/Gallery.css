@@ -1,0 +1,11 @@
+.galleryContainer {
+  background-color: blueviolet;
+  padding: 2em;
+  margin: 1em;
+  border-radius: 0.5em;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  justify-content: center;
+}
